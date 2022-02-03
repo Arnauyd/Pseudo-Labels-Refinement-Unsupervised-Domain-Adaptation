@@ -50,13 +50,13 @@ A noter que pour le cGAN le label est encodé de la même manière pour le gén�
 Images générées par C0 après 1 epoch :
 
 <p align="center">
-    <img src='outputs/Résultats G0/gan_generated_image_epoch_1.png'>
+    <img src='outputs/Résulats G0/gan_generated_image_epoch_1.png'>
 </p> 
 
 Images générées par C0 après 25 epoch :
 
 <p align="center">
-    <img src='outputs/Résultats G0/gan_generated_image_epoch_25.png'>
+    <img src='outputs/Résulats G0/gan_generated_image_epoch_25.png'>
 </p> 
 
 ## Phase 2 : Apprentissage itératif de C, G et D <a class="anchor" id="iteration"></a> 
